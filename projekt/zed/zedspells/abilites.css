@@ -1,0 +1,64 @@
+.abilites{
+    position: absolute;
+    top: 300px;
+    left: 200px;
+    border:5px solid darkgoldenrod;
+    
+}
+.abilites2{
+    position: absolute;
+    top: 400px;
+    left: 300px;
+    max-width: 15%;
+    height: 15%;
+}
+h2{
+    text-decoration-style: solid;
+    text-decoration-color: black;
+    font-size: 35px;
+    font-family: serif;
+    color:darkgoldenrod;
+    position: absolute;
+    top: 250px;
+    left: 150px;
+}
+h3{
+    margin: auto;
+    font-family: serif;
+    color: darkgoldenrod;
+    font-size: 25px;
+    position: absolute;
+    top: 300px;
+    left: 320px;
+}
+h4{
+    margin: auto;
+    font-family: serif;
+    color: darkgoldenrod;
+    font-size: 25px;
+    position: absolute;
+    top: 350px;
+    left: 320px;
+}
+.row {
+    margin: auto;
+    font-family: serif;
+    color: white;
+    font-size: 15px;
+    position: absolute;
+    top: 430px;
+    left: 200px;
+    
+}
+.green{
+    color: green;
+    font-size: 20px;
+    font-family: serif;
+}
+.video1{
+    position: absolute;
+    left: 800px;
+    top: -120px;
+    border: 1;
+    border-color: black;
+}
